@@ -1,9 +1,5 @@
 # pgadmin4 on PipeOps
 
-
-[![Deploy on PipeOps](https://pub-a1fbf367a4cd458487cfa3f29154ac93.r2.dev/Default.png)](#)
-
-
 # Running
 
 See the website for documentation on deploying different versions of the container:
